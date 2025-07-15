@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "cs4410-assignments",
+			"path": "."
+		},
+		{
+			"name": "assignment1",
+			"path": "assignment1"
+		},
+		{
+			"name": "assignment2",
+			"path": "assignment2"
+		}
+	],
+	"settings": {}
+}
